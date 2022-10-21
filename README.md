@@ -8,10 +8,16 @@ Extract the zip
 Install Python. Download the installer on the [python website](https://www.python.org/downloads/).
 ### Step 4
 Open your preferred terminal and go to the directory of the newly extracted folder
-`cd <file path (you can dragndrop)>`
+`
+cd <file path (you can dragndrop)>
+`
 ### Step 5
 Install requirments.txt
-`pip install -r requirements.txt`
+`
+pip install -r requirements.txt
+`
 ### Step 6
 Run the file! Double click it or type
-`python3 main.py`
+`
+python3 main.py
+`
